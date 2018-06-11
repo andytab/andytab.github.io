@@ -7,8 +7,8 @@ title: Hongui's的个人博客
 subtitle: 每天一点点
 description: 灵感，创意
 keywords: Android,Java,Kotlin,Python,Go,Dart
-language: zh
-timezone: Asiz/Shanghai
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
